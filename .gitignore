@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+
+Version_1/Metrics/
+Version_1/Models/
+Version_1/RawData/
+Version_1/Vectorizer/
+
+Version_2/SerializedModels/
+.txt
+Version_2/glove.6B.100d.txt
